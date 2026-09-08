@@ -1,2 +1,0 @@
-# Weatherlight
-Weatherlight Website Wireframes
